@@ -12,4 +12,4 @@ Explain your project in one or two small sentences. Avoid writing long and compl
 (Add up to 3 screenshots here optionally, and make sure they are detailed and describe what the program is about. Do not add logos or anything that is unnecessary to functionality.)
 
 ## Extra Sections
-The above is all you need for a concise and clear README. But, if necessary, add up to 3 more sections here. Limit them to one or two paragraphs, in this case, 4 sentences each. As long as you keep it minimal, add anything you'd like, such as tables, to-do lists, or any sort of data.
+The above is all you need for a concise and clear README. But, if necessary, feel free to add more sections, but only up to 5 sections total, including the ones above. Limit them to one or two paragraphs, in this case, 4 sentences each. As long as you keep it minimal, add anything you'd like, such as tables, to-do lists, or any sort of data.
